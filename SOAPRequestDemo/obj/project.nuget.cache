@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1OkOFG9w8q7QX1t8kv0CHDysjqpyDHhulIPRXLu4s1tSEn/eZluKG411prh4pzp074X42Lty4nDRO7kgCrmo6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ludasilvac\\Desktop\\PUC\\APIs e Web Services\\SOAP\\SOAPRequestDemo\\SOAPRequestDemo\\SOAPRequestDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ludasilvac\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
